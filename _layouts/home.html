@@ -22,7 +22,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        <p class="post-excerpt">{{ post.content | strip_newlines | strip_html | truncate: 200 }}</p>
+        <p class="post-excerpt">{{ post.content | strip_newlines | strip_html | truncate: 150 }}</p>
       </li>
       {%- endfor -%}
     </ul>
