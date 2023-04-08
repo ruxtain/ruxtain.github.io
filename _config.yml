@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 都市奇谭
+title: 都市奇譚
 author: 韩腾
-email: ruxtain@gmail.com
+email: tanteic41@gmail.com
 description: # >- this means to ignore newlines until "baseurl:"
-  分享股市、币圈投资心得。
   把握时代脉搏，实现财富人生。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tanshiziben
-github_username:  ruxtain
+bilibili_userid: 40226914
+bilibili_username: 都市奇谭
 
 # Build settings
 theme: minima
