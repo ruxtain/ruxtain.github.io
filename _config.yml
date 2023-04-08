@@ -35,6 +35,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# nav
+header_pages:
+  - index.md
+  - ally.md
+  - about.md
+
 # 全局的日期格式变量
 minima:
   date_format: "%Y-%m-%d %H:%M"
