@@ -100,11 +100,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: rgb(26, 13, 171);
+  color: $brand-color;
   text-decoration: none;
 
   &:visited {
-    color: rgb(26, 13, 171);
+    color: $brand-color;
   }
 
   &:hover {

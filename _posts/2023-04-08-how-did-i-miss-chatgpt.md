@@ -3,9 +3,9 @@ id: 2
 layout: post
 title:  "反思：为什么错过了chatGPT的一季度行情？"
 date:   2023-04-08 14:03:00 +0800
-categories: stock
+categories: concept
+type: "article"
 tags: A股 半导体
-excerpt: 错过了国内的GPT概念股。GPT这个肯定是划时代的伟大发明。
 ---
 
 # 错失良机

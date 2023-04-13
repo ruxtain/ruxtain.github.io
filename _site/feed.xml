@@ -1,43 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-04-08T19:56:38+08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">都市奇譚</title><subtitle>把握时代脉搏，实现财富人生。</subtitle><author><name>韩腾·自由投资人</name></author><entry><title type="html">反思：为什么错过了chatGPT的一季度行情？</title><link href="http://0.0.0.0:4000/stock/2023/04/08/how-did-i-miss-chatgpt.html" rel="alternate" type="text/html" title="反思：为什么错过了chatGPT的一季度行情？" /><published>2023-04-08T14:03:00+08:00</published><updated>2023-04-08T14:03:00+08:00</updated><id>http://0.0.0.0:4000/stock/2023/04/08/how-did-i-miss-chatgpt</id><content type="html" xml:base="http://0.0.0.0:4000/stock/2023/04/08/how-did-i-miss-chatgpt.html"><![CDATA[<h1 id="错失良机">错失良机</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-04-14T00:08:12+08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">都市奇譚</title><subtitle>把握时代脉搏，实现财富人生。</subtitle><author><name>韩腾·自由投资人</name></author><entry><title type="html">反思：坚决和做空、短线思维说不！</title><link href="http://0.0.0.0:4000/stock/2023/04/13/stop-shorting-and-day-trading.html" rel="alternate" type="text/html" title="反思：坚决和做空、短线思维说不！" /><published>2023-04-13T23:15:00+08:00</published><updated>2023-04-13T23:15:00+08:00</updated><id>http://0.0.0.0:4000/stock/2023/04/13/stop-shorting-and-day-trading</id><content type="html" xml:base="http://0.0.0.0:4000/stock/2023/04/13/stop-shorting-and-day-trading.html">&lt;h1 id=&quot;做空的缺点&quot;&gt;做空的缺点&lt;/h1&gt;
 
-<p>错过了国内的 GPT 概念股的行情，追悔莫及，故而写下这篇反思。</p>
+&lt;p&gt;做空的亏损是没有上限的，这一点要务必明白。无论你是做空股票，还是做空期权，都是一样，亏损无上限。
+除非你有绝对的证据、内幕消息，否则绝对不要轻易做空一家公司。但是我们作为一个平民百姓是不可能知道什么内幕消息的，因此对自己最有利的做法就是不要做空。
+我因为做空已经亏了不少钱了，绝对不要再犯同样的错误。&lt;/p&gt;
 
-<p>GPT这个肯定是划时代的伟大发明。但是呢，我作为数据行业的人，却没有及时跟进国内的股票。只是静静持有英伟达，并安慰自己说没有错过这波涨幅。</p>
+&lt;h2 id=&quot;为什么做空容易亏钱&quot;&gt;为什么做空容易亏钱？&lt;/h2&gt;
 
-<p>其根本原因还是我过于轻视了国内的公司，因为最好的芯片和内存厂家都不在中国大陆，而是分布在美国、台湾、韩国等。可是，虽然中国造不出最好的 CPU 和 GPU，我们搞数据的都知道，我们还需要海量的内存和硬盘啊。内存中国还是能造的，比如朗科。</p>
+&lt;p&gt;这是因为做空自带短线属性，只要你是做空一直股票，你很难做到长期做空。因为就算这家公司长期趋势是下跌的，它中间却可能产生异常的上涨。比如2021年初，有名的“散户大战华尔街”事件中：一些奄奄一息的公司被华尔街巨头做空，但是散户们和伪装成散户的机构们联合起来做多，把一文不值的公司价格炒上天，给做空机构带来了巨大的账面损失。如果做空机构没能提供足够的保证金，则可能直接被交易所强制平仓，浮亏变成实亏。这对我们来说也是一样，虽然一个股票注定归零，但是很可能在你持有空头仓位期间发生“迷之暴涨”，要么让你因为恐惧而割肉平仓，要么让你因为没有足够保证金而强制平仓。很少有人能抗住这种压力，至少我承认我不能。&lt;/p&gt;
 
-<p>我对 GPT 的新闻开始当回事是在2月4日。那时候我开始注册 chatGPT 账号了。如果我在那时就想到，支持这种 AI 模型需要大量的核心和内存，就买入了朗科（生产内存条），到现在已经翻倍。</p>
+&lt;p&gt;&lt;img src=&quot;/assets/images/4/4-1.png&quot; alt=&quot;第一共和银行做空巨额损失&quot; class=&quot;post-image-small&quot; /&gt;
+以上就是一个血淋淋的教训。在3月初硅谷银行倒闭后，其他几家相似处境的地区性银行也是岌岌可危，第一共和银行 (FRC) 就是其中一家。我曾抄底该股，赚取了一些利润。但是，在3月21日我在高位卖出 FRC 的股票之后，它又继续暴涨了30%，因此我直接判断这个疯涨会以暴跌结束，就在多次做多之后选择了做空。并且由于之前做多都是赚钱的，给了我不该有的迷之自信。这一次，我选择了更重的仓位。随后，这场投机者的狂欢让股价拉到了60%的涨幅，我再也抗不住压力，在凌晨1点左右选择了割肉离场。否则我一晚上都睡不着觉了。
+然而第二天早上醒来一看，整个股价又被打回原形，也就是说，我如果在顶部不是割肉，而是加空，我就大赚一笔。但是这种马后炮毫无意义。鬼知道它会不会在当天晚上拉到200%的涨幅，毕竟这家银行暴跌之前的股价在130美元左右。如果我真的按照这个越涨越空的逻辑操作，很可能再某次操作中输个精光。我对于我的及时止损是不后悔的，我真正后悔的是，我一开始就不该去炒作这只股。&lt;/p&gt;
 
-<p><img src="/assets/images/2/2-1.png" alt="朗科科技2023年一季度走势图" />
-再不济，随便买个半导体ETF，也能吃到 \(0.839/0.698-1 \approx 20\%\) 的涨幅。</p>
+&lt;h1 id=&quot;短线的思维&quot;&gt;短线的思维&lt;/h1&gt;
 
-<p><img src="/assets/images/2/2-2.png" alt="半导体ETF2023年一季度走势图" /></p>
+&lt;p&gt;短线交易就是赌博，不是投资。除非你是有什么特殊能力，能看到大众无法看到的信息，提前知道某个股票在很短时间的走势。但是即便如此，赌的成分也是非常重的。
+我非常不建议以短线交易的思维去买卖股票，这是十分危险的，结局很可能是一分钱不赚，倒亏一大堆本金和手续费。短线交易和在赌场里频繁赌博是一样的，只有庄家赢钱，交易者都是输钱。
+我举个例子，比如通过 SEC form 4 看到高管都在卖出某只股票，但是呢，却没有留意到卖出的比例并不高。比如高管持有300万股，卖出了10万股，套现了一波。这10万股可能值很多钱，但是也不一定造成股价的扰动。仅凭这个理由就去做空某个股票，很可能结局是很惨的。&lt;/p&gt;
 
-<h1 id="原因分析">原因分析</h1>
+&lt;p&gt;比如4月份我注意到 Cloudflare (NET) 的高管在持续卖出，于是认为公司可能出现问题，于是选择做空。结果发现股价却一直上涨，我不得不平仓止损。这一波，亏损惨重。
+&lt;img src=&quot;/assets/images/4/4-2.png&quot; alt=&quot;做空Cloudflare损失惨重&quot; /&gt;
+截至到写本文为止，该公司股价仍在稳步上涨。
+&lt;img src=&quot;/assets/images/4/4-3.png&quot; alt=&quot;NET持续上涨&quot; /&gt;&lt;/p&gt;
 
-<h2 id="对自媒体的夸大其辞感到麻木">对自媒体的夸大其辞感到麻木</h2>
+&lt;p&gt;以上都是因为我使用了短线交易的思维导致了亏损。但是短线交易的思维并不代表完全禁止短线交易。
+比如某个上市公司的市值，你预期是10年内从100亿达到1000亿。结果由于某个游资的炒作，他3个月就涨到了1000亿，估值高得离谱，这个时候你就可以提前卖出了。因为由于市场的疯狂，你提前实现了目标，那么就可以提前离开，去找更有投资价值的标的，而不是继续呆在泡沫里。虽然你只持有了3个月，但是这并不代表你是短线投资者，你一开始的心理状态就是准备好了长线持有。奈何市场过热，提前逼退了你。&lt;/p&gt;
 
-<p>长期以来，有任何似是而非的技术成果，自媒体乃至正经的新闻媒体都会夸夸其谈，无中生有，以至于很多噱头都甚至还没来得及了解，就已经烟消云散。因此当自媒体从2022年12月左右开始铺天盖地宣传 chatGPT 的时候，我是无动于衷的。</p>
+&lt;p&gt;也就是说，你买入任何一个股票都必须是作为长期持有的心理准备。因为上述的情况其实是非常罕见的，大部分时候是横盘、阴跌和来回震荡。最理想、最不可能的情况就是上述的直线上升，最合理的理想情况是慢牛，稳步上升。如果没有长期持有的心理准备，比如在漫长的横盘、阴跌、震荡中失去耐心提前割肉离场。正如股神巴菲特所说：“If you aren’t thinking about owning a stock for ten years, don’t even think about owning it for ten minutes.” (如果不准备持股10年，那么连10分钟也不要持有)我虽然不一定要持有10年，但是一开始的心理准备是持有10年的，这才能让我有足够耐心度过漫长的等待，有足够的信息在低估时狠狠加仓。&lt;/p&gt;
 
-<p>但是 chatGPT 的热度持续时间比较长，直到2023年2月，我终于开始重视这个概念。我在2月4日才开始尝试去自己注册一个账号，但是发现中国手机号被对方禁止注册，我又不想费劲去买个虚拟号码，于是就此作罢。不过好在有朋友推荐了一个微信群，有技术大佬已经在微信群里接入了 chatGPT 的接口，我这才体验了一下。发现它确实是什么问题都能答得比较流畅，但是答案的正确率不高。</p>
+&lt;p&gt;这样也从侧面说明，我们是不能去做空的，因为一开始建仓就是持有10年的心态，我们怎么可能去持续做空一家公司10年呢？&lt;/p&gt;
 
-<p>后来我又去B站看了大量的测试视频，这才后知后觉地意识到这个东西真正的厉害之处：<code class="language-plaintext highlighter-rouge">那就是能理解上下文</code>。在此之前的所有智能对话机器都只能回答当前一句话，而不能联系之前的对话记录做出反应。你甚至能给一个人设，比如让它扮演你的傲娇女友，有兴趣的话，可以看看这个up主的演示：</p>
+&lt;p&gt;那么你凭什么才会原因持有一家公司十年呢？这个就必须进行充分的调研。而不是仅仅因为这家公司的股价正在上涨或者下跌就买入，这是十分愚蠢的，因为短期内的市场表现是非理性的。不同的股票的选股理由是不同的，没有办法一概而论，我将在其他文章中逐个说明。&lt;/p&gt;</content><author><name>韩腾·自由投资人</name></author><category term="stock" /><category term="股票" /><category term="交易" /><summary type="html">做空的缺点</summary></entry><entry><title type="html">反思：为什么错过了chatGPT的一季度行情？</title><link href="http://0.0.0.0:4000/concept/2023/04/08/how-did-i-miss-chatgpt.html" rel="alternate" type="text/html" title="反思：为什么错过了chatGPT的一季度行情？" /><published>2023-04-08T14:03:00+08:00</published><updated>2023-04-08T14:03:00+08:00</updated><id>http://0.0.0.0:4000/concept/2023/04/08/how-did-i-miss-chatgpt</id><content type="html" xml:base="http://0.0.0.0:4000/concept/2023/04/08/how-did-i-miss-chatgpt.html">&lt;h1 id=&quot;错失良机&quot;&gt;错失良机&lt;/h1&gt;
 
-<p><a href="https://www.bilibili.com/video/BV1i24y1s7Uj/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4acd9097fc7349f10ab730540c33915b" target="_blank">ChatGPT，年轻人的第一个傲娇女友！</a></p>
+&lt;p&gt;错过了国内的 GPT 概念股的行情，追悔莫及，故而写下这篇反思。&lt;/p&gt;
 
-<p><img src="/assets/images/2/2-3.png" alt="ChatGPT，年轻人的第一个傲娇女友！" class="post-image-medium" /></p>
+&lt;p&gt;GPT这个肯定是划时代的伟大发明。但是呢，我作为数据行业的人，却没有及时跟进国内的股票。只是静静持有英伟达，并安慰自己说没有错过这波涨幅。&lt;/p&gt;
 
-<h2 id="对a股过于轻视">对A股过于轻视</h2>
+&lt;p&gt;其根本原因还是我过于轻视了国内的公司，因为最好的芯片和内存厂家都不在中国大陆，而是分布在美国、台湾、韩国等。可是，虽然中国造不出最好的 CPU 和 GPU，我们搞数据的都知道，我们还需要海量的内存和硬盘啊。内存中国还是能造的，比如朗科。&lt;/p&gt;
 
-<p>A股长年稳定在3000点附近，因此只有轮动行情，没有长牛行情，这个大家应该都是认可的。再加上头部公司都是银行、白酒之类，基本少有科技公司，因此出现重大科技突破也不会第一时间想到A股的公司。但是即便如此，A股也是有大牛股的。即便某些公司的技术实力不足以实现全球范围的垄断，也还是能实现国内的“垄断”。比如在老美对中国进行禁运的期间，国内的半导体产业被迫自成体系，自产自销，在这个内循环的语境下，是垄断的，也是有超额利润的。因此，当新的技术突破时，国内的股市也能有不错的行情，切不可坐井观天，只盯着世界上最头部的几家公司。</p>
+&lt;p&gt;我对 GPT 的新闻开始当回事是在2月4日。那时候我开始注册 chatGPT 账号了。如果我在那时就想到，支持这种 AI 模型需要大量的核心和内存，就买入了朗科（生产内存条），到现在已经翻倍。&lt;/p&gt;
 
-<p>从历史发展来看，被封锁的技术，往往会以国内自研取代的方式解决，比如航天科技被封锁后，中国航天技术有了长足发展。还是要看多国家的长远前景，国内的半导体产业链迟早会和国际接轨，股市也会随之带来丰厚的回报。不过这需要极大的耐心，现阶段还是以炒作中短线行情为主。</p>
+&lt;p&gt;&lt;img src=&quot;/assets/images/2/2-1.png&quot; alt=&quot;朗科科技2023年一季度走势图&quot; /&gt;
+再不济，随便买个半导体ETF，也能吃到 \(0.839/0.698-1 \approx 20\%\) 的涨幅。&lt;/p&gt;
 
-<h2 id="反思的结论">反思的结论</h2>
+&lt;p&gt;&lt;img src=&quot;/assets/images/2/2-2.png&quot; alt=&quot;半导体ETF2023年一季度走势图&quot; /&gt;&lt;/p&gt;
 
-<ol>
-  <li>不要轻视A股，把握好轮动的行情，相信国家的长期发展前景是光明的，不要轻易看空自己的国家。</li>
-  <li>不要小看自媒体的吹嘘。正所谓<code class="language-plaintext highlighter-rouge">“狂夫之言，圣人择焉”</code>，多听多想，必然有其可取之处。不要懒于去稍微考证一下，用不了多少时间的。就算考证的结果是负面的，也能帮助自己更快鉴定什么是真正的技术突破。</li>
-</ol>]]></content><author><name>韩腾·自由投资人</name></author><category term="stock" /><category term="A股" /><category term="半导体" /><summary type="html"><![CDATA[错过了国内的GPT概念股。GPT这个肯定是划时代的伟大发明。]]></summary></entry><entry><title type="html">为什么创建这个博客网站？</title><link href="http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website.html" rel="alternate" type="text/html" title="为什么创建这个博客网站？" /><published>2023-04-07T20:00:52+08:00</published><updated>2023-04-07T20:00:52+08:00</updated><id>http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website</id><content type="html" xml:base="http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website.html"><![CDATA[<p>平日对股票市场关注颇多，也在交易过程中产生很多想法、反思，如果仅凭记忆，可能无法悉数把握，故而记录于此，供自己和有缘人参考。</p>
+&lt;h1 id=&quot;原因分析&quot;&gt;原因分析&lt;/h1&gt;
 
-<p>尤其是经验教训，多多记录，就像学生时代的错题本一样，尽量让自己不要犯同样的错误，不断提升投资水平。</p>]]></content><author><name>韩腾·自由投资人</name></author><category term="about" /><summary type="html"><![CDATA[平日对股票市场关注颇多，也在交易过程中产生很多想法、反思，如果仅凭记忆，可能无法悉数把握，故而记录于此，供自己和有缘人参考。]]></summary></entry></feed>
+&lt;h2 id=&quot;对自媒体的夸大其辞感到麻木&quot;&gt;对自媒体的夸大其辞感到麻木&lt;/h2&gt;
+
+&lt;p&gt;长期以来，有任何似是而非的技术成果，自媒体乃至正经的新闻媒体都会夸夸其谈，无中生有，以至于很多噱头都甚至还没来得及了解，就已经烟消云散。因此当自媒体从2022年12月左右开始铺天盖地宣传 chatGPT 的时候，我是无动于衷的。&lt;/p&gt;
+
+&lt;p&gt;但是 chatGPT 的热度持续时间比较长，直到2023年2月，我终于开始重视这个概念。我在2月4日才开始尝试去自己注册一个账号，但是发现中国手机号被对方禁止注册，我又不想费劲去买个虚拟号码，于是就此作罢。不过好在有朋友推荐了一个微信群，有技术大佬已经在微信群里接入了 chatGPT 的接口，我这才体验了一下。发现它确实是什么问题都能答得比较流畅，但是答案的正确率不高。&lt;/p&gt;
+
+&lt;p&gt;后来我又去B站看了大量的测试视频，这才后知后觉地意识到这个东西真正的厉害之处：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;那就是能理解上下文&lt;/code&gt;。在此之前的所有智能对话机器都只能回答当前一句话，而不能联系之前的对话记录做出反应。你甚至能给一个人设，比如让它扮演你的傲娇女友，有兴趣的话，可以看看这个up主的演示：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1i24y1s7Uj/?spm_id_from=333.337.search-card.all.click&amp;amp;vd_source=4acd9097fc7349f10ab730540c33915b&quot; target=&quot;_blank&quot;&gt;ChatGPT，年轻人的第一个傲娇女友！&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2/2-3.png&quot; alt=&quot;ChatGPT，年轻人的第一个傲娇女友！&quot; class=&quot;post-image-medium&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;对a股过于轻视&quot;&gt;对A股过于轻视&lt;/h2&gt;
+
+&lt;p&gt;A股长年稳定在3000点附近，因此只有轮动行情，没有长牛行情，这个大家应该都是认可的。再加上头部公司都是银行、白酒之类，基本少有科技公司，因此出现重大科技突破也不会第一时间想到A股的公司。但是即便如此，A股也是有大牛股的。即便某些公司的技术实力不足以实现全球范围的垄断，也还是能实现国内的“垄断”。比如在老美对中国进行禁运的期间，国内的半导体产业被迫自成体系，自产自销，在这个内循环的语境下，是垄断的，也是有超额利润的。因此，当新的技术突破时，国内的股市也能有不错的行情，切不可坐井观天，只盯着世界上最头部的几家公司。&lt;/p&gt;
+
+&lt;p&gt;从历史发展来看，被封锁的技术，往往会以国内自研取代的方式解决，比如航天科技被封锁后，中国航天技术有了长足发展。还是要看多国家的长远前景，国内的半导体产业链迟早会和国际接轨，股市也会随之带来丰厚的回报。不过这需要极大的耐心，现阶段还是以炒作中短线行情为主。&lt;/p&gt;
+
+&lt;h2 id=&quot;反思的结论&quot;&gt;反思的结论&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;不要轻视A股，把握好轮动的行情，相信国家的长期发展前景是光明的，不要轻易看空自己的国家。&lt;/li&gt;
+  &lt;li&gt;不要小看自媒体的吹嘘。正所谓&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“狂夫之言，圣人择焉”&lt;/code&gt;，多听多想，必然有其可取之处。不要懒于去稍微考证一下，用不了多少时间的。就算考证的结果是负面的，也能帮助自己更快鉴定什么是真正的技术突破。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>韩腾·自由投资人</name></author><category term="concept" /><category term="A股" /><category term="半导体" /><summary type="html">错失良机</summary></entry><entry><title type="html">为什么创建这个博客网站？</title><link href="http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website.html" rel="alternate" type="text/html" title="为什么创建这个博客网站？" /><published>2023-04-07T20:00:52+08:00</published><updated>2023-04-07T20:00:52+08:00</updated><id>http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website</id><content type="html" xml:base="http://0.0.0.0:4000/about/2023/04/07/why-do-i-build-this-website.html">&lt;p&gt;平日对股票市场关注颇多，也在交易过程中产生很多想法、反思，如果仅凭记忆，可能无法悉数把握，故而记录于此，供自己和有缘人参考。&lt;/p&gt;
+
+&lt;p&gt;尤其是经验教训，多多记录，就像学生时代的错题本一样，尽量让自己不要犯同样的错误，不断提升投资水平。&lt;/p&gt;</content><author><name>韩腾·自由投资人</name></author><category term="about" /><summary type="html">平日对股票市场关注颇多，也在交易过程中产生很多想法、反思，如果仅凭记忆，可能无法悉数把握，故而记录于此，供自己和有缘人参考。</summary></entry></feed>

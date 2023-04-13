@@ -38,6 +38,7 @@ plugins:
 # nav
 header_pages:
   - index.md
+  - stock.md
   - ally.md
   - about.md
 
